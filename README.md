@@ -1,7 +1,7 @@
 <h1> WELCOME TO GREGNET HOME! </h1>
 
 Hi, I'm @GregorioMonari<br>
-I'm a Software Developer at Vaimee, and occasionally teaching Electronical Elaborators at Unibo<br>
+I'm a Software Developer at Vaimee, and teaching as tutor Electronical Elaborators at Unibo<br>
 I'm passionate about Informatics, Electronical Elaborators and Physics!<br>
 Currently learning Linked Data Architectures, looking forward to study Machine Learning and Quantum Elaborators in the future<br>
 Gregnet is a mindset, and the root of all my projects and ideas!<br>
